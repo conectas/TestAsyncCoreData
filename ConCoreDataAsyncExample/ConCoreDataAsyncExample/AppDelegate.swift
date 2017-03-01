@@ -17,6 +17,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        _ = persistentContainer
+        
         return true
     }
 
@@ -69,10 +71,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                  */
                 fatalError("Unresolved error \(error), \(error.userInfo)")
             }
+            
+            self.backgroundContext = container.newBackgroundContext()
+            
         })
         return container
     }()
 
+    var backgroundContext: NSManagedObjectContext!
+    
     // MARK: - Core Data Saving support
 
     func saveContext () {

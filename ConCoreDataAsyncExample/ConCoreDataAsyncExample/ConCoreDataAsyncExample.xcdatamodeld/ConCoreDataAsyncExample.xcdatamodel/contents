@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ArticlesDb" representedClassName="ArticlesDb" syncable="YES" codeGenerationType="class">
+        <attribute name="fNameDt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fNameEn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kEan" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kEol" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="kGesperrt" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="kHersteller" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kHid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kImageData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="kImagePfad" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="knKurz" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kOrg" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="kSeiten" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kShippingStatusId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kShippingStatusName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kToOrg" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kTxt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="kVKPreis" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="typGruppe" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="typName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ArticlesDb" positionX="-54" positionY="-9" width="128" height="360"/>
+    </elements>
 </model>
