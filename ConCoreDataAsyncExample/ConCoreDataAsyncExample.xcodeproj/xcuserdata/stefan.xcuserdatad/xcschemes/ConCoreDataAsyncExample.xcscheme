@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F8ADB05A1E6708800064F4FE"
+               BlueprintIdentifier = "F8ADB09E1E670CA80064F4FE"
                BuildableName = "ConCoreDataAsyncExample.app"
                BlueprintName = "ConCoreDataAsyncExample"
                ReferencedContainer = "container:ConCoreDataAsyncExample.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F8ADB05A1E6708800064F4FE"
+            BlueprintIdentifier = "F8ADB09E1E670CA80064F4FE"
             BuildableName = "ConCoreDataAsyncExample.app"
             BlueprintName = "ConCoreDataAsyncExample"
             ReferencedContainer = "container:ConCoreDataAsyncExample.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F8ADB05A1E6708800064F4FE"
+            BlueprintIdentifier = "F8ADB09E1E670CA80064F4FE"
             BuildableName = "ConCoreDataAsyncExample.app"
             BlueprintName = "ConCoreDataAsyncExample"
             ReferencedContainer = "container:ConCoreDataAsyncExample.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F8ADB05A1E6708800064F4FE"
+            BlueprintIdentifier = "F8ADB09E1E670CA80064F4FE"
             BuildableName = "ConCoreDataAsyncExample.app"
             BlueprintName = "ConCoreDataAsyncExample"
             ReferencedContainer = "container:ConCoreDataAsyncExample.xcodeproj">

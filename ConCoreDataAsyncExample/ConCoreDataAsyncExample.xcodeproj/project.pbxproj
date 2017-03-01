@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F8ADB05F1E6708800064F4FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8ADB05E1E6708800064F4FE /* AppDelegate.swift */; };
-		F8ADB0611E6708800064F4FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8ADB0601E6708800064F4FE /* ViewController.swift */; };
-		F8ADB0641E6708800064F4FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8ADB0621E6708800064F4FE /* Main.storyboard */; };
-		F8ADB0671E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8ADB0651E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodeld */; };
-		F8ADB0691E6708800064F4FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8ADB0681E6708800064F4FE /* Assets.xcassets */; };
-		F8ADB06C1E6708800064F4FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8ADB06A1E6708800064F4FE /* LaunchScreen.storyboard */; };
+		F8ADB0A31E670CA80064F4FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8ADB0A21E670CA80064F4FE /* AppDelegate.swift */; };
+		F8ADB0A51E670CA80064F4FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8ADB0A41E670CA80064F4FE /* ViewController.swift */; };
+		F8ADB0A81E670CA80064F4FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8ADB0A61E670CA80064F4FE /* Main.storyboard */; };
+		F8ADB0AB1E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F8ADB0A91E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodeld */; };
+		F8ADB0AD1E670CA80064F4FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8ADB0AC1E670CA80064F4FE /* Assets.xcassets */; };
+		F8ADB0B01E670CA80064F4FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8ADB0AE1E670CA80064F4FE /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F8ADB05B1E6708800064F4FE /* ConCoreDataAsyncExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConCoreDataAsyncExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8ADB05E1E6708800064F4FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F8ADB0601E6708800064F4FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F8ADB0631E6708800064F4FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F8ADB0661E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ConCoreDataAsyncExample.xcdatamodel; sourceTree = "<group>"; };
-		F8ADB0681E6708800064F4FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F8ADB06B1E6708800064F4FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F8ADB06D1E6708800064F4FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F8ADB09F1E670CA80064F4FE /* ConCoreDataAsyncExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConCoreDataAsyncExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8ADB0A21E670CA80064F4FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F8ADB0A41E670CA80064F4FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F8ADB0A71E670CA80064F4FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F8ADB0AA1E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ConCoreDataAsyncExample.xcdatamodel; sourceTree = "<group>"; };
+		F8ADB0AC1E670CA80064F4FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F8ADB0AF1E670CA80064F4FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F8ADB0B11E670CA80064F4FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F8ADB0581E6708800064F4FE /* Frameworks */ = {
+		F8ADB09C1E670CA80064F4FE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +37,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F8ADB0521E6708800064F4FE = {
+		F8ADB0961E670CA80064F4FE = {
 			isa = PBXGroup;
 			children = (
-				F8ADB05D1E6708800064F4FE /* ConCoreDataAsyncExample */,
-				F8ADB05C1E6708800064F4FE /* Products */,
+				F8ADB0A11E670CA80064F4FE /* ConCoreDataAsyncExample */,
+				F8ADB0A01E670CA80064F4FE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F8ADB05C1E6708800064F4FE /* Products */ = {
+		F8ADB0A01E670CA80064F4FE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F8ADB05B1E6708800064F4FE /* ConCoreDataAsyncExample.app */,
+				F8ADB09F1E670CA80064F4FE /* ConCoreDataAsyncExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F8ADB05D1E6708800064F4FE /* ConCoreDataAsyncExample */ = {
+		F8ADB0A11E670CA80064F4FE /* ConCoreDataAsyncExample */ = {
 			isa = PBXGroup;
 			children = (
-				F8ADB05E1E6708800064F4FE /* AppDelegate.swift */,
-				F8ADB0601E6708800064F4FE /* ViewController.swift */,
-				F8ADB0621E6708800064F4FE /* Main.storyboard */,
-				F8ADB0681E6708800064F4FE /* Assets.xcassets */,
-				F8ADB06A1E6708800064F4FE /* LaunchScreen.storyboard */,
-				F8ADB06D1E6708800064F4FE /* Info.plist */,
-				F8ADB0651E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodeld */,
+				F8ADB0A21E670CA80064F4FE /* AppDelegate.swift */,
+				F8ADB0A41E670CA80064F4FE /* ViewController.swift */,
+				F8ADB0A61E670CA80064F4FE /* Main.storyboard */,
+				F8ADB0AC1E670CA80064F4FE /* Assets.xcassets */,
+				F8ADB0AE1E670CA80064F4FE /* LaunchScreen.storyboard */,
+				F8ADB0B11E670CA80064F4FE /* Info.plist */,
+				F8ADB0A91E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodeld */,
 			);
 			path = ConCoreDataAsyncExample;
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F8ADB05A1E6708800064F4FE /* ConCoreDataAsyncExample */ = {
+		F8ADB09E1E670CA80064F4FE /* ConCoreDataAsyncExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8ADB0701E6708800064F4FE /* Build configuration list for PBXNativeTarget "ConCoreDataAsyncExample" */;
+			buildConfigurationList = F8ADB0B41E670CA80064F4FE /* Build configuration list for PBXNativeTarget "ConCoreDataAsyncExample" */;
 			buildPhases = (
-				F8ADB0571E6708800064F4FE /* Sources */,
-				F8ADB0581E6708800064F4FE /* Frameworks */,
-				F8ADB0591E6708800064F4FE /* Resources */,
+				F8ADB09B1E670CA80064F4FE /* Sources */,
+				F8ADB09C1E670CA80064F4FE /* Frameworks */,
+				F8ADB09D1E670CA80064F4FE /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,27 +84,27 @@
 			);
 			name = ConCoreDataAsyncExample;
 			productName = ConCoreDataAsyncExample;
-			productReference = F8ADB05B1E6708800064F4FE /* ConCoreDataAsyncExample.app */;
+			productReference = F8ADB09F1E670CA80064F4FE /* ConCoreDataAsyncExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F8ADB0531E6708800064F4FE /* Project object */ = {
+		F8ADB0971E670CA80064F4FE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Stefan Glaser";
 				TargetAttributes = {
-					F8ADB05A1E6708800064F4FE = {
+					F8ADB09E1E670CA80064F4FE = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 92342RTKZA;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = F8ADB0561E6708800064F4FE /* Build configuration list for PBXProject "ConCoreDataAsyncExample" */;
+			buildConfigurationList = F8ADB09A1E670CA80064F4FE /* Build configuration list for PBXProject "ConCoreDataAsyncExample" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -112,55 +112,55 @@
 				en,
 				Base,
 			);
-			mainGroup = F8ADB0521E6708800064F4FE;
-			productRefGroup = F8ADB05C1E6708800064F4FE /* Products */;
+			mainGroup = F8ADB0961E670CA80064F4FE;
+			productRefGroup = F8ADB0A01E670CA80064F4FE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F8ADB05A1E6708800064F4FE /* ConCoreDataAsyncExample */,
+				F8ADB09E1E670CA80064F4FE /* ConCoreDataAsyncExample */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F8ADB0591E6708800064F4FE /* Resources */ = {
+		F8ADB09D1E670CA80064F4FE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8ADB06C1E6708800064F4FE /* LaunchScreen.storyboard in Resources */,
-				F8ADB0691E6708800064F4FE /* Assets.xcassets in Resources */,
-				F8ADB0641E6708800064F4FE /* Main.storyboard in Resources */,
+				F8ADB0B01E670CA80064F4FE /* LaunchScreen.storyboard in Resources */,
+				F8ADB0AD1E670CA80064F4FE /* Assets.xcassets in Resources */,
+				F8ADB0A81E670CA80064F4FE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F8ADB0571E6708800064F4FE /* Sources */ = {
+		F8ADB09B1E670CA80064F4FE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8ADB0611E6708800064F4FE /* ViewController.swift in Sources */,
-				F8ADB0671E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodeld in Sources */,
-				F8ADB05F1E6708800064F4FE /* AppDelegate.swift in Sources */,
+				F8ADB0A51E670CA80064F4FE /* ViewController.swift in Sources */,
+				F8ADB0AB1E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodeld in Sources */,
+				F8ADB0A31E670CA80064F4FE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		F8ADB0621E6708800064F4FE /* Main.storyboard */ = {
+		F8ADB0A61E670CA80064F4FE /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F8ADB0631E6708800064F4FE /* Base */,
+				F8ADB0A71E670CA80064F4FE /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F8ADB06A1E6708800064F4FE /* LaunchScreen.storyboard */ = {
+		F8ADB0AE1E670CA80064F4FE /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F8ADB06B1E6708800064F4FE /* Base */,
+				F8ADB0AF1E670CA80064F4FE /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -168,7 +168,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F8ADB06E1E6708800064F4FE /* Debug */ = {
+		F8ADB0B21E670CA80064F4FE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -218,7 +218,7 @@
 			};
 			name = Debug;
 		};
-		F8ADB06F1E6708800064F4FE /* Release */ = {
+		F8ADB0B31E670CA80064F4FE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,7 +261,7 @@
 			};
 			name = Release;
 		};
-		F8ADB0711E6708800064F4FE /* Debug */ = {
+		F8ADB0B51E670CA80064F4FE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -275,7 +275,7 @@
 			};
 			name = Debug;
 		};
-		F8ADB0721E6708800064F4FE /* Release */ = {
+		F8ADB0B61E670CA80064F4FE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -292,37 +292,37 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F8ADB0561E6708800064F4FE /* Build configuration list for PBXProject "ConCoreDataAsyncExample" */ = {
+		F8ADB09A1E670CA80064F4FE /* Build configuration list for PBXProject "ConCoreDataAsyncExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8ADB06E1E6708800064F4FE /* Debug */,
-				F8ADB06F1E6708800064F4FE /* Release */,
+				F8ADB0B21E670CA80064F4FE /* Debug */,
+				F8ADB0B31E670CA80064F4FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8ADB0701E6708800064F4FE /* Build configuration list for PBXNativeTarget "ConCoreDataAsyncExample" */ = {
+		F8ADB0B41E670CA80064F4FE /* Build configuration list for PBXNativeTarget "ConCoreDataAsyncExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8ADB0711E6708800064F4FE /* Debug */,
-				F8ADB0721E6708800064F4FE /* Release */,
+				F8ADB0B51E670CA80064F4FE /* Debug */,
+				F8ADB0B61E670CA80064F4FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		F8ADB0651E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodeld */ = {
+		F8ADB0A91E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				F8ADB0661E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodel */,
+				F8ADB0AA1E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodel */,
 			);
-			currentVersion = F8ADB0661E6708800064F4FE /* ConCoreDataAsyncExample.xcdatamodel */;
+			currentVersion = F8ADB0AA1E670CA80064F4FE /* ConCoreDataAsyncExample.xcdatamodel */;
 			path = ConCoreDataAsyncExample.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = F8ADB0531E6708800064F4FE /* Project object */;
+	rootObject = F8ADB0971E670CA80064F4FE /* Project object */;
 }
