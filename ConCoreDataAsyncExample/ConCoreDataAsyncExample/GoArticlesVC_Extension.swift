@@ -52,7 +52,7 @@ extension GoArticlesVC {
                         
                         userDataObject.kHersteller = user["KHERSTELLER"] as? String
                         userDataObject.kImagePfad = user["IMAGEPFAD"] as? String
-                        userDataObject.kImageData = Data() as NSData?
+                        userDataObject.kImageData = Data()
                         
                         userDataObject.kHid = self.kHid
                         
